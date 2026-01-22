@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Maryam</h1>
+<h3 align="center">Computer Science Student | Python & Problem Solving</h3>
 
-<!--
-**Maryam-m0hamed/Maryam-m0hamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+- Computer Science student at the Faculty of Computers and Artificial Intelligence, Damietta University (2nd year)
+- Python programmer with an interest in problem solving
+- Studying data structures and object-oriented programming using Python
+- Using GitHub to track my learning and practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+- Python  
+- Problem Solving  
+- Data Structures  
+- OOP  
+
+---
+
+### Connect
+- LinkedIn:  https://www.linkedin.com/in/maryam-tharwat-b209bb328?
