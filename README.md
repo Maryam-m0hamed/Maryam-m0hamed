@@ -17,8 +17,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge)  
-![Data Structures](https://img.shields.io/badge/Data%20Structures-9370DB?style=for-the-badge)  
-
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FFB6C1?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-FF69B4?style=for-the-badge)
 ---
 
