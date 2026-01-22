@@ -22,5 +22,8 @@
 
 ---
 
+
+
 ### Connect
-- LinkedIn:  https://www.linkedin.com/in/maryam-tharwat-b209bb328
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-tharwat-b209bb328)
