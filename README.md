@@ -12,11 +12,11 @@
 ---
 
 ### Skills
-- Python  
-- Problem Solving  
-- Data Structures  
-- OOP  
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Learning-blue?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Learning-lightgrey?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Python-orange?style=for-the-badge)
 ---
 
 ### Connect
