@@ -20,4 +20,4 @@
 ---
 
 ### Connect
-- LinkedIn:  https://www.linkedin.com/in/maryam-tharwat-b209bb328?
+- LinkedIn:  https://www.linkedin.com/in/maryam-tharwat-b209bb328
